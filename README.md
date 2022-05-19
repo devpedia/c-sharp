@@ -5,7 +5,7 @@ https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history
 
 C# Version 1
 - Statements
--- any piece of conde consists of one or more statements that are processed in execution order
+  - any piece of conde consists of one or more statements that are processed in execution order
 - Classes
 - Structs
 - Interfaces
@@ -29,8 +29,8 @@ C# Version 3 (late 2007, VisualStudio 2008)
 - Query Expressions
 - Lambda Expressions
 - Extension methods
--- Extensions handle null differently.
--- May indicate an extension method by adding name-suffix "Ext"
+  - Extensions handle null differently.
+  - May indicate an extension method by adding name-suffix "Ext"
 - Implicitly typed local variables (var)
 - Partial methods
 - Object / Collection Initializers
@@ -83,10 +83,10 @@ C# Version 8
 - Readonly members
 - Default interface methods
 - Pattern Matching:
--- Switch expressions
--- Property patterns
--- Tuple patterns
--- Positional patterns
+  - Switch expressions
+  - Property patterns
+  - Tuple patterns
+  - Positional patterns
 - Using declarations (var will be disposed at the end of the scope)
 - Static local functions
 - Disposable ref structs
